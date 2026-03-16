@@ -3,3 +3,4 @@ node_modules
 __pycache__
 inference.py
 inference2.py
+venv
