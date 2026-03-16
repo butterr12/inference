@@ -1,0 +1,117 @@
+[
+  {
+    "internalReviewId": "726031815809588.0",
+    "sentimentLabel": "positive",
+    "score": 0.9999351501464844
+  },
+  {
+    "internalReviewId": "721439710009588.0",
+    "sentimentLabel": "positive",
+    "score": 0.9999538660049438
+  },
+  {
+    "internalReviewId": "720368737209588.0",
+    "sentimentLabel": "positive",
+    "score": 0.9955190420150757
+  },
+  {
+    "internalReviewId": "718879131109588.0",
+    "sentimentLabel": "neutral",
+    "score": 0.9999281167984009
+  },
+  {
+    "internalReviewId": "718009825809588.0",
+    "sentimentLabel": "positive",
+    "score": 0.9968288540840149
+  },
+  {
+    "internalReviewId": "716440416809588.0",
+    "sentimentLabel": "negative",
+    "score": 0.9766387343406677
+  },
+  {
+    "internalReviewId": "716472627109588.0",
+    "sentimentLabel": "positive",
+    "score": 0.9999535083770752
+  },
+  {
+    "internalReviewId": "714743146809588.0",
+    "sentimentLabel": "negative",
+    "score": 0.8550940752029419
+  },
+  {
+    "internalReviewId": "708385008309588.0",
+    "sentimentLabel": "positive",
+    "score": 0.9999551773071289
+  },
+  {
+    "internalReviewId": "709828870609588.0",
+    "sentimentLabel": "neutral",
+    "score": 0.9922174215316772
+  },
+  {
+    "internalReviewId": "711524774309588.0",
+    "sentimentLabel": "positive",
+    "score": 0.9999374151229858
+  },
+  {
+    "internalReviewId": "710912955009588.0",
+    "sentimentLabel": "neutral",
+    "score": 0.9999334812164307
+  },
+  {
+    "internalReviewId": "708925067809588.0",
+    "sentimentLabel": "positive",
+    "score": 0.9998892545700073
+  },
+  {
+    "internalReviewId": "709729324209588.0",
+    "sentimentLabel": "positive",
+    "score": 0.9999524354934692
+  },
+  {
+    "internalReviewId": "702469115809588.0",
+    "sentimentLabel": "positive",
+    "score": 0.9999289512634277
+  },
+  {
+    "internalReviewId": "725716150292266.0",
+    "sentimentLabel": "positive",
+    "score": 0.9999144077301025
+  },
+  {
+    "internalReviewId": "696162126892266.0",
+    "sentimentLabel": "positive",
+    "score": 0.8590894341468811
+  },
+  {
+    "internalReviewId": "725362131283454.0",
+    "sentimentLabel": "positive",
+    "score": 0.9999384880065918
+  },
+  {
+    "internalReviewId": "721641255283454.0",
+    "sentimentLabel": "positive",
+    "score": 0.999722421169281
+  },
+  {
+    "internalReviewId": "720261012083454.0",
+    "sentimentLabel": "positive",
+    "score": 0.9999397993087769
+  },
+  {
+    "internalReviewId": "720260813383454.0",
+    "sentimentLabel": "neutral",
+    "score": 0.9985332489013672
+  },
+  {
+    "internalReviewId": "718025580983454.0",
+    "sentimentLabel": "positive",
+    "score": 0.9967989921569824
+  },
+  {
+    "internalReviewId": "719261045083454.0",
+    "sentimentLabel": "positive",
+    "score": 0.9999361038208008
+  }
+]
